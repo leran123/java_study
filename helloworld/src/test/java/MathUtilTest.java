@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class MathUtilTtest {
+public class MathUtilTest {
     @Test
     public void testAdd() {
         int sum = 3;
